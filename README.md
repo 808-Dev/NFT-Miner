@@ -1,6 +1,6 @@
 # NFT Miner 
 NFT Miner - Version 1.1.0 - Quick Fix
-
+<img src="https://www.pythontutorial.net/wp-content/uploads/2020/10/python-tutorial.png">
 Since the whole NFT thing started booming on Twitter it's been hard not to see one of those ugly ass monkeys or lions in my fucking feed. I know you can mute stuff, but I'm petty. So, in response to these annoying as fuck incel hypebeasts shoving their picture of a lion that looks like it was dropped on its head, I created the worlds first NFT Miner.
 
 <h1>Does it mine crypto?</h1>
