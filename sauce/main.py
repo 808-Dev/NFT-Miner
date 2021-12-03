@@ -89,7 +89,6 @@ else:
                     if id_check(tweet.id) != 'skip':
                         if 'media' in tweet.entities:
                             if not os.path.exists(DEFAULT_FOLDER+str(tweet.extended_entities['media'][0]['media_url_https'])):
-                                print(tweet.author.screen_name)
                                 push_hashtag_array(tweet.id,tweet.author.screen_name,str(tweet.extended_entities['media'][0]['media_url_https']),str(tweet.created_at))
                                 wget.download(tweet.extended_entities['media'][0]['media_url_https'], out = DEFAULT_FOLDER)
                 time.sleep(8)
