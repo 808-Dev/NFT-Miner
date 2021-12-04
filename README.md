@@ -17,3 +17,9 @@ Kinda bored. Kinda forgot python. Mostly just boredom though.
 <h1>NOoOoO! You can't download my lion jpeg! ThAt'S mIne!</h1>
 
 Give me your dumb tweet id and I'll get to it sometime. In the mean time look for your dick you bearded failure of a based femboy.
+
+<h1>Why does this have a MYSQL client in it?</h1>
+
+1. If some hypebeast wants to complain about being stolen from, I can just blacklist their shit and have the bot delete it from the miners system.
+2. So everyone can get images and receive the same images without hitting bandwidth thresholds.
+3. Because I also dunno what I want to do with all the images yet. Maybe a meme I dunno.
