@@ -1,5 +1,4 @@
 # NFT Miner 
-<img src="https://github.com/808-Dev/NFT-Miner/blob/main/assets/monki.png" width="200px" height="250px">
 NFT Miner - Version 1.2.0 - Hot Fix - This one works ;3
 
 
@@ -27,3 +26,9 @@ Give me your dumb tweet id and I'll get to it sometime. In the mean time look fo
 1. If some hypebeast wants to complain about being stolen from, I can just blacklist their shit and have the bot delete it from the miners system.
 2. So everyone can get images and receive the same images without hitting bandwidth thresholds.
 3. Because I also dunno what I want to do with all the images yet. Maybe a meme I dunno.
+
+<h1>WTF is the logo?!</h1>
+
+His name is Monki and that was very mean. He works hard to do whatever he does. Say sorry.
+
+<img src="https://github.com/808-Dev/NFT-Miner/blob/main/assets/monki.png" width="200px" height="250px">
