@@ -1,7 +1,7 @@
 # NFT Miner 
 NFT Miner - Version 1.2.0 - Hot Fix - This one works ;3
 
-<img src="">
+<img src="https://github.com/808-Dev/NFT-Miner/blob/main/assets/monki.png">
 
 Since the whole NFT thing started booming on Twitter it's been hard not to see one of those ugly ass monkeys or lions in my fucking feed. I know you can mute stuff, but I'm petty. So, in response to these annoying as fuck incel hypebeasts shoving their picture of a lion that looks like it was dropped on its head, I created the worlds first NFT Miner.
 
