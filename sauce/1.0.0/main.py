@@ -133,7 +133,7 @@ else:
             try: #Attempt to maybe do something correctly for once.
 
                 public_tweets = api.search_tweets(hashtag)
-                time.sleep(3)
+                time.sleep(8)
                 print('Searching for Tweets')
                 for tweet in public_tweets:  #Get individual tweet from tweet array.
                     anti_spam = False
