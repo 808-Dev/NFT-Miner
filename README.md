@@ -25,7 +25,7 @@ Give me your dumb tweet id and I'll get to it sometime. In the mean time look fo
 
 1. If some hypebeast wants to complain about being stolen from, I can just blacklist their shit and have the bot delete it from the miners system.
 2. So everyone can get images and receive the same images without hitting bandwidth thresholds.
-3. Because I also dunno what I want to do with all the images yet. Maybe a meme I dunno.
+3. Because I also dunno what I want to do with all the images yet. Maybe a meme I dunno. (It was a meme: <a href="">:3</a>)
 
 <h1>WTF is the logo?!</h1>
 
