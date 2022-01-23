@@ -1,4 +1,4 @@
-# NFT Miner 
+# NFT Miner - Deprecated Because Of Darwinism
 NFT Miner - Version 1.2.0 - Hot Fix - This one works ;3
 
 
@@ -30,5 +30,12 @@ Give me your dumb tweet id and I'll get to it sometime. In the mean time look fo
 <h1>WTF is the logo?!</h1>
 
 His name is Monki and that was very mean. He works hard to do whatever he does. Say sorry.
+
+<h1>Deprecated? Why?</h1>
+
+1. I didn't have to make this. 
+2. I have a life.
+3. I have other projects I began work on (Sparro Ticketing Suite and the real Budgi.net)
+4. People complain about memes and start saying "YoU MaDe A vIrUs!" when I'm just too cheap to register my app :/
 
 <img src="https://github.com/808-Dev/NFT-Miner/blob/main/assets/monki.png" width="200px" height="250px">
