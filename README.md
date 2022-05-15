@@ -1,4 +1,4 @@
-# NFT Miner - Deprecated Because Of Darwinism
+# NFT Miner - Deprecated Because I Can Get More Money From A Pokemon Card
 NFT Miner - Version 1.2.0 - Hot Fix - This one works ;3
 
 
